@@ -44,34 +44,29 @@ Building modern, scalable and user-focused web applications with React, Django, 
 
 # 🛠 Tech Stack
 
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,javascript,html,css,sql" />
-</p>
-
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,vite" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,typescript,bootstrap,jquery" />
 </p>
 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=django" />
-</p>
-
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgresql" />
+<img src="https://skillicons.dev/icons?i=python,django,flask,nodejs,postgresql,jest" />
+<img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe"/>
 </p>
 
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,figma,vscode,vite,npm" />
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+<img src="https://img.shields.io/badge/pip-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="pip"/>
+<img src="https://img.shields.io/badge/Chrome%20DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome DevTools"/>
+<img src="https://img.shields.io/badge/AWS%20S3-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS S3"/>
+<img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion"/>
 </p>
 
 ---
