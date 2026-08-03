@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Eyongtarh Besong
+# Hey, I'm Eyongtarh Besong
 
 ### Full Stack Software Developer
 
