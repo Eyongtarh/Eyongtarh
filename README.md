@@ -77,7 +77,7 @@ Building modern, scalable and user-focused web applications with React, Django, 
 
 Professional React portfolio showcasing projects, skills and experience.
 
-**Tech:** React • Vite • Framer Motion • EmailJS • CSS
+**Tech:** React • Vite • Framer Motion • EmailJS • JavaScript . HTML . CSS
 
 🔗 https://eyongtarh.com
 
@@ -91,7 +91,7 @@ https://github.com/Eyongtarh/Eyongtarh-portfolio
 
 A full-stack restaurant marketplace with authentication, Stripe payments and AWS S3 integration.
 
-**Tech:** Django • PostgreSQL • Stripe • AWS S3
+**Tech:** Django • PostgreSQL • Stripe • AWS S3 • JavaScript . Python . HTML . CSS
 
 Repository:
 
@@ -103,7 +103,7 @@ https://github.com/Eyongtarh/Tarh-Tastyhub
 
 Training booking platform for cyclists and motorcyclists.
 
-**Tech:** Django • PostgreSQL • JavaScript
+**Tech:** Django • PostgreSQL • JavaScript . Python . HTML . CSS
 
 Repository:
 
