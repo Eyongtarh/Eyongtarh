@@ -9,35 +9,39 @@
 Building modern, scalable and user-focused web applications with React, Django, Python and PostgreSQL.
 
 <p>
-<a href="https://eyongtarh.com">
-<img src="https://img.shields.io/badge/Portfolio-eyongtarh.com-2563EB?style=for-the-badge" alt="Portfolio"/>
-</a>
-
-<a href="https://github.com/Eyongtarh">
-<img src="https://img.shields.io/badge/GitHub-Eyongtarh-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-</a>
-
-<a href="https://www.linkedin.com/in/a-eyongtarh-besong-22ab9b281">
-<img src="https://img.shields.io/badge/LinkedIn-A.%20Eyongtarh%20Besong-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-</a>
-
-<a href="mailto:eyongtarhb@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail" alt="Email"/>
-</a>
-</p>
-
-</div>
-<p align="center">
   <a href="https://eyongtarh.com">
-<img src="./public/qr-portfolio.svg"
-     width="180"
-     alt="Scan to visit my portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-eyongtarh.com-2563EB?style=for-the-badge" alt="Portfolio"/>
+  </a>
+
+  <a href="https://github.com/Eyongtarh">
+    <img src="https://img.shields.io/badge/GitHub-Eyongtarh-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/a-eyongtarh-besong-22ab9b281">
+    <img src="https://img.shields.io/badge/LinkedIn-A.%20Eyongtarh%20Besong-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+
+  <a href="mailto:eyongtarhb@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail" alt="Email"/>
   </a>
 </p>
 
-<p align="center">
-  <strong>📱 Scan to visit my portfolio</strong>
+<p>
+  <a href="https://eyongtarh.com">
+    <img
+      src="https://eyongtarh.com/qr-portfolio.svg"
+      width="160"
+      alt="Scan to visit my portfolio"
+    />
+  </a>
 </p>
+
+**📱 Scan to visit my**  
+  <a href="https://eyongtarh.com">
+    <img src="https://img.shields.io/badge/Portfolio-eyongtarh.com-2563EB?style=for-the-badge" alt="Portfolio"/>
+  </a>
+
+</div>
 
 ---
 
