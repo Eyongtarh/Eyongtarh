@@ -27,6 +27,17 @@ Building modern, scalable and user-focused web applications with React, Django, 
 </p>
 
 </div>
+<p align="center">
+  <a href="https://eyongtarh.com">
+<img src="./public/qr-portfolio.svg"
+     width="180"
+     alt="Scan to visit my portfolio">
+  </a>
+</p>
+
+<p align="center">
+  <strong>📱 Scan to visit my portfolio</strong>
+</p>
 
 ---
 
