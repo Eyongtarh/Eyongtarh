@@ -111,7 +111,7 @@ A full-stack restaurant marketplace with authentication, Stripe payments and AWS
 
 Repository:
 
-https://github.com/Eyongtarh/Tarh-Tastyhub
+[https://github.com/Eyongtarh/Tarh-Tastyhub](https://tarh-tastyhub-4071346c00af.herokuapp.com/)
 
 ---
 
