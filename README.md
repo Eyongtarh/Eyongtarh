@@ -139,25 +139,6 @@ https://github.com/Eyongtarh/Ekpaw-Spicies
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats-chi-eight-30.vercel.app/api?username=Eyongtarh&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
-  <img height="170" src="https://github-readme-stats-chi-eight-30.vercel.app/api/top-langs/?username=Eyongtarh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Eyongtarh&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 # 📊 Contribution Graph
 
 <p align="center">
